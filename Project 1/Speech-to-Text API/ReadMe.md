@@ -130,6 +130,16 @@ node index.js
 
 ---
 
+## 📤 Step 9: Install `multer` (for file uploads)
+
+```bash
+npm install multer
+```
+
+> `multer` will be used for handling multipart/form-data — primarily for file uploads (e.g., audio files for speech recognition).
+
+---
+
 ## 💡 Notes
 
 * This project uses **Vite** for fast builds and hot module reloading.
