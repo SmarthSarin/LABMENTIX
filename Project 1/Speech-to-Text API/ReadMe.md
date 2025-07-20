@@ -150,6 +150,16 @@ npm install @supabase/supabase-js
 
 ---
 
+## 🔐 Step 11: Install `Whisper` (Speech Recognition Library)
+
+```bash
+pip install -U openai-whisper
+```
+
+> `whisper` is a powerful ASR (Automatic Speech Recognition) model by OpenAI, used for transcribing audio into text.
+
+---
+
 ## 💡 Notes
 
 * This project uses **Vite** for fast builds and hot module reloading.
