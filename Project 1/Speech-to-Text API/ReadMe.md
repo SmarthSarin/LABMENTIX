@@ -130,13 +130,23 @@ node index.js
 
 ---
 
-## 📤 Step 9: Install `multer` (for file uploads)
+## 🧩 Step 9: Install `multer` (for File Uploads)
 
 ```bash
 npm install multer
 ```
 
-> `multer` will be used for handling multipart/form-data — primarily for file uploads (e.g., audio files for speech recognition).
+> `multer` is used for handling `multipart/form-data`, primarily for uploading files (e.g., audio files for speech recognition).
+
+---
+
+## 🗃️ Step 10: Install `@supabase/supabase-js` (for Supabase Integration)
+
+```bash
+npm install @supabase/supabase-js
+```
+
+> This package allows your app to interact with Supabase services such as authentication, database, and storage.
 
 ---
 
